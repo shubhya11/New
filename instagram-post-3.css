@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div29 {
+  position: absolute;
+  top: 953px;
+  left: 604px;
+  background-color: transparent;
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 519px;
+  height: 50px;
+}
+.rectangle-div30 {
+  position: absolute;
+  top: 1003px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1080px;
+  height: 77px;
+}
+.pin-alt-fill-icon1 {
+  position: absolute;
+  top: 1018px;
+  left: 11px;
+  width: 39px;
+  height: 43.13px;
+}
+.rectangle-div31,
+.rectangle-div32 {
+  position: absolute;
+  top: 953px;
+  left: 0;
+  border-radius: 0 var(--br-lg) var(--br-lg) 0;
+  width: 638px;
+  height: 50px;
+}
+.rectangle-div31 {
+  background-color: #d9d9d9;
+}
+.rectangle-div32 {
+  background-color: var(--color-gray-100);
+}
+.subtract-icon {
+  position: relative;
+  width: 36px;
+  height: 28px;
+}
+.tectignis-it-solutiuion41 {
+  position: absolute;
+  top: 1021px;
+  left: 62px;
+  display: inline-block;
+  width: 449px;
+  height: 14px;
+}
+.tectignis-it-solutiuion42,
+.tectignis-it-solutiuion43 {
+  position: absolute;
+  top: 960px;
+  left: 74px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 449px;
+  height: 18px;
+}
+.tectignis-it-solutiuion43 {
+  top: 962px;
+  left: 692px;
+  color: var(--color-gray-100);
+}
+.rectangle-div33 {
+  position: absolute;
+  top: 1069px;
+  left: 0;
+  border-radius: 0 var(--br-sm) 0 0;
+  background-color: var(--color-gray-100);
+  width: 638px;
+  height: 50px;
+}
+.tectignis-it-solutiuion44 {
+  position: absolute;
+  top: 41px;
+  left: 754px;
+  display: inline-block;
+  background: linear-gradient(#000, #000), linear-gradient(#000, #000),
+    linear-gradient(#000, #000), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 449px;
+  height: 20px;
+}
+.rectangle-icon7 {
+  position: absolute;
+  top: 838px;
+  left: 814px;
+  width: 232px;
+  height: 105px;
+  object-fit: cover;
+}
+.phone-fill-icon1 {
+  position: absolute;
+  top: 965px;
+  left: 660px;
+  width: 29px;
+  height: 29px;
+}
+.instagram-post-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div10,
+.rectangle-div9 {
+  position: absolute;
+  top: 955px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1080px;
+  height: 124px;
+}
+.rectangle-div10 {
+  top: 973px;
+  border-radius: 0 0 var(--br-sm) var(--br-sm);
+  background-color: var(--color-white);
+  height: 59px;
+}
+.tectignis-it-solutiuion7 {
+  position: absolute;
+  top: 1038px;
+  left: 42px;
+  display: inline-block;
+  width: 449px;
+  height: 18px;
+}
+.line-icon {
+  position: absolute;
+  top: 965px;
+  left: 0;
+  width: 1080px;
+  height: 4px;
+}
+.tectignis-it-solutiuion8 {
+  position: absolute;
+  top: 41px;
+  left: 754px;
+  display: inline-block;
+  background: linear-gradient(#000, #000), linear-gradient(#000, #000),
+    linear-gradient(#000, #000), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 449px;
+  height: 20px;
+}
+.rectangle-div11 {
+  position: absolute;
+  top: 955px;
+  left: 35px;
+  width: 400px;
+  height: 62px;
+}
+.rectangle-div11,
+.rectangle-div12 {
+  border-radius: var(--br-xs);
+  background-color: var(--color-indigo-100);
+}
+.group-div4,
+.group-div5,
+.rectangle-div12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 362px;
+  height: 56px;
+}
+.group-div4 {
+  top: 961px;
+  left: 633px;
+  mix-blend-mode: normal;
+}
+.tectignis-it-solutiuion10,
+.tectignis-it-solutiuion9 {
+  position: absolute;
+  top: 971px;
+  left: 63px;
+  display: inline-block;
+  width: 449px;
+  height: 36px;
+}
+.tectignis-it-solutiuion10 {
+  top: 973px;
+  left: 686px;
+}
+.instagram-post-7 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

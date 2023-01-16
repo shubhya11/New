@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.line-icon1,
+.line-icon2 {
+  position: absolute;
+  top: 1004px;
+  left: 0;
+  width: 1080px;
+  height: 6.02px;
+}
+.line-icon2 {
+  top: 889px;
+  left: 11px;
+  width: 1069px;
+}
+.tectignis-it-solutiuion11 {
+  position: absolute;
+  top: 41px;
+  left: 754px;
+  display: inline-block;
+  background: linear-gradient(#000, #000), linear-gradient(#000, #000),
+    linear-gradient(#000, #000), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 449px;
+  height: 20px;
+}
+.rectangle-div13,
+.rectangle-div14 {
+  position: absolute;
+  top: 959px;
+  left: 0;
+  border-radius: 0 var(--br-md) 0 0;
+  background-color: var(--color-gray-100);
+  width: 642px;
+  height: 59px;
+}
+.rectangle-div14 {
+  top: 883px;
+  border-radius: 0 0 var(--br-md) 0;
+  width: 392px;
+  height: 60px;
+}
+.rectangle-icon2 {
+  position: absolute;
+  top: 909px;
+  left: 871px;
+  width: 177px;
+  height: 80px;
+  object-fit: cover;
+}
+.tectignis-it-solutiuion12,
+.tectignis-it-solutiuion13 {
+  position: absolute;
+  top: 971px;
+  left: 44px;
+  background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff),
+    linear-gradient(#fff, #fff), linear-gradient(#fff, #fff),
+    linear-gradient(#fff, #fff), #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 277px;
+  height: 36px;
+}
+.tectignis-it-solutiuion13 {
+  top: 895px;
+}
+.instagram-post-11 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}

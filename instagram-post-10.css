@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.tectignis-it-solutiuion14 {
+  position: absolute;
+  top: 41px;
+  left: 754px;
+  display: inline-block;
+  background: linear-gradient(#000, #000), linear-gradient(#000, #000),
+    linear-gradient(#000, #000), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 449px;
+  height: 20px;
+}
+.rectangle-div15 {
+  position: absolute;
+  top: 1005px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1080px;
+  height: 75px;
+}
+.tectignis-it-solutiuion15,
+.tectignis-it-solutiuion16,
+.tectignis-it-solutiuion17,
+.tectignis-it-solutiuion18 {
+  position: absolute;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 277px;
+  height: 36px;
+}
+.tectignis-it-solutiuion15 {
+  top: 1025px;
+  left: 89px;
+  background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff),
+    linear-gradient(#fff, #fff), #fff;
+}
+.tectignis-it-solutiuion16,
+.tectignis-it-solutiuion17,
+.tectignis-it-solutiuion18 {
+  top: 941px;
+  left: 62px;
+  background: linear-gradient(#000, #000), linear-gradient(#fff, #fff),
+    linear-gradient(#fff, #fff), #fff;
+}
+.tectignis-it-solutiuion17,
+.tectignis-it-solutiuion18 {
+  left: 435px;
+}
+.tectignis-it-solutiuion18 {
+  left: 781px;
+}
+.instagram-post-10 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div16 {
+  position: absolute;
+  top: 930px;
+  left: 511px;
+  border-radius: var(--br-md) 0 0 0;
+  background-color: #1f3c75;
+  width: 569px;
+  height: 81px;
+}
+.tectignis-it-solutiuion19 {
+  position: absolute;
+  top: 41px;
+  left: 754px;
+  display: inline-block;
+  background: linear-gradient(#000, #000), linear-gradient(#000, #000),
+    linear-gradient(#000, #000), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 449px;
+  height: 20px;
+}
+.rectangle-div17 {
+  position: absolute;
+  top: 855px;
+  left: 779px;
+  border-radius: var(--br-md) 0 0 0;
+  background-color: var(--color-orange);
+  width: 301px;
+  height: 75px;
+}
+.rectangle-div18 {
+  position: absolute;
+  top: 1005px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1080px;
+  height: 75px;
+}
+.rectangle-icon3 {
+  position: absolute;
+  top: 945px;
+  left: 32px;
+  width: 102px;
+  height: 46px;
+  object-fit: cover;
+}
+.tectignis-it-solutiuion20,
+.tectignis-it-solutiuion21,
+.tectignis-it-solutiuion22 {
+  position: absolute;
+  top: 1025px;
+  left: 32px;
+  display: inline-block;
+  width: 277px;
+  height: 36px;
+}
+.tectignis-it-solutiuion21,
+.tectignis-it-solutiuion22 {
+  top: 950px;
+  left: 540px;
+  background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff),
+    linear-gradient(#fff, #fff), #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.tectignis-it-solutiuion22 {
+  top: 882px;
+  left: 825px;
+  font-size: 20px;
+}
+.line-icon3 {
+  position: absolute;
+  top: 1006px;
+  left: 0;
+  width: 1080px;
+  height: 6.02px;
+}
+.instagram-post-9 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}

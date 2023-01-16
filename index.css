@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div,
+.rectangle-div1,
+.rectangle-div2,
+.rectangle-div3 {
+  position: absolute;
+  top: 980px;
+  left: 708px;
+  border-radius: var(--br-md) var(--br-md) 0 0;
+  background-color: var(--color-gray-100);
+  width: 358px;
+  height: 60px;
+}
+.rectangle-div1,
+.rectangle-div2,
+.rectangle-div3 {
+  left: 397px;
+  width: 301px;
+}
+.rectangle-div2,
+.rectangle-div3 {
+  left: 11px;
+  width: 358px;
+}
+.rectangle-div3 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.group-div,
+.rectangle-div4 {
+  position: absolute;
+  top: 987px;
+  left: 708px;
+  width: 358px;
+  height: 60px;
+}
+.rectangle-div4 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md) var(--br-md) 0 0;
+  background-color: var(--color-white);
+  width: 301px;
+}
+.group-div1,
+.group-div2,
+.rectangle-div6 {
+  position: absolute;
+  top: 989px;
+  left: 397px;
+  width: 301px;
+  height: 60px;
+}
+.group-div2,
+.rectangle-div6 {
+  left: 11px;
+  width: 358px;
+}
+.rectangle-div6 {
+  top: 1035px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1080px;
+  height: 45px;
+}
+.message-fill-icon {
+  position: absolute;
+  top: 992px;
+  left: 727px;
+  width: 35px;
+  height: 35px;
+}
+.tectignis-it-solutiuion {
+  position: absolute;
+  top: 1042px;
+  left: 66px;
+  display: inline-block;
+  width: 449px;
+  height: 18px;
+}
+.tectignis-it-solutiuion1,
+.tectignis-it-solutiuion2,
+.tectignis-it-solutiuion3 {
+  position: absolute;
+  top: 999px;
+  left: 47px;
+  background: linear-gradient(#000, #000), linear-gradient(#000, #000),
+    linear-gradient(#000, #000), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 449px;
+  height: 20px;
+}
+.tectignis-it-solutiuion2,
+.tectignis-it-solutiuion3 {
+  top: 60px;
+  left: 759px;
+}
+.tectignis-it-solutiuion3 {
+  top: 995px;
+  left: 772px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 36px;
+  left: 32px;
+  width: 265px;
+  height: 120px;
+  object-fit: cover;
+}
+.phone-fill-icon {
+  position: absolute;
+  top: 1004px;
+  left: 18px;
+  width: 29px;
+  height: 29px;
+}
+.pin-alt-fill-icon {
+  position: absolute;
+  top: 1042px;
+  left: 22px;
+  width: 33px;
+  height: 37.88px;
+}
+.instagram-post-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
